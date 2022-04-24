@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ASY22Cy6dBdH/k/RGg2Bi0+9Qc+Dzvt6ViYGUfhjsD2z54qYSRvyOFad9ll46CqBUdqkHnZCFXYiclF421geLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hankc\\source\\repos\\DependencyInversion\\DependencyInversion\\DependencyInversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hankc\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

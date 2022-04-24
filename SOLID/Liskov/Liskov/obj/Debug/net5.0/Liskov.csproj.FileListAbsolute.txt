@@ -1,0 +1,16 @@
+C:\Users\hankc\source\repos\Liskov\Liskov\bin\Debug\net5.0\Liskov.exe
+C:\Users\hankc\source\repos\Liskov\Liskov\bin\Debug\net5.0\Liskov.deps.json
+C:\Users\hankc\source\repos\Liskov\Liskov\bin\Debug\net5.0\Liskov.runtimeconfig.json
+C:\Users\hankc\source\repos\Liskov\Liskov\bin\Debug\net5.0\Liskov.runtimeconfig.dev.json
+C:\Users\hankc\source\repos\Liskov\Liskov\bin\Debug\net5.0\Liskov.dll
+C:\Users\hankc\source\repos\Liskov\Liskov\bin\Debug\net5.0\ref\Liskov.dll
+C:\Users\hankc\source\repos\Liskov\Liskov\bin\Debug\net5.0\Liskov.pdb
+C:\Users\hankc\source\repos\Liskov\Liskov\obj\Debug\net5.0\Liskov.csproj.AssemblyReference.cache
+C:\Users\hankc\source\repos\Liskov\Liskov\obj\Debug\net5.0\Liskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hankc\source\repos\Liskov\Liskov\obj\Debug\net5.0\Liskov.AssemblyInfoInputs.cache
+C:\Users\hankc\source\repos\Liskov\Liskov\obj\Debug\net5.0\Liskov.AssemblyInfo.cs
+C:\Users\hankc\source\repos\Liskov\Liskov\obj\Debug\net5.0\Liskov.csproj.CoreCompileInputs.cache
+C:\Users\hankc\source\repos\Liskov\Liskov\obj\Debug\net5.0\Liskov.dll
+C:\Users\hankc\source\repos\Liskov\Liskov\obj\Debug\net5.0\ref\Liskov.dll
+C:\Users\hankc\source\repos\Liskov\Liskov\obj\Debug\net5.0\Liskov.pdb
+C:\Users\hankc\source\repos\Liskov\Liskov\obj\Debug\net5.0\Liskov.genruntimeconfig.cache
