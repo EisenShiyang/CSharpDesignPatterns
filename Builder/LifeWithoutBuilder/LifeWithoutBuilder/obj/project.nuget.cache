@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfqq4kCgDgFkaMYQfNUQlm9Mq9aLxdKEpr7Msm9rCw630OjFwQKy7Ls6gOAw9bLTOoIBvMSGyfaLaq0cs4WMZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hankc\\source\\repos\\LifeWithoutBuilder\\LifeWithoutBuilder\\LifeWithoutBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hankc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\hankc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hankc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hankc\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

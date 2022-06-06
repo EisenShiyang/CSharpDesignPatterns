@@ -1,0 +1,16 @@
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\net5.0\LifeWithoutBuilder.exe
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\net5.0\LifeWithoutBuilder.deps.json
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\net5.0\LifeWithoutBuilder.runtimeconfig.json
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\net5.0\LifeWithoutBuilder.runtimeconfig.dev.json
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\net5.0\LifeWithoutBuilder.dll
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\net5.0\LifeWithoutBuilder.pdb
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\net5.0\LifeWithoutBuilder.csproj.AssemblyReference.cache
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\net5.0\LifeWithoutBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\net5.0\LifeWithoutBuilder.AssemblyInfoInputs.cache
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\net5.0\LifeWithoutBuilder.AssemblyInfo.cs
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\net5.0\LifeWithoutBuilder.csproj.CoreCompileInputs.cache
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\net5.0\LifeWithoutBuilder.dll
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\net5.0\refint\LifeWithoutBuilder.dll
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\net5.0\LifeWithoutBuilder.pdb
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\net5.0\LifeWithoutBuilder.genruntimeconfig.cache
+C:\Users\hankc\source\repos\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\net5.0\ref\LifeWithoutBuilder.dll
